@@ -1,0 +1,7 @@
+*
+*.rpc
+*.bak
+!game/
+!LICENSE
+!README.md
+!.gitignore
